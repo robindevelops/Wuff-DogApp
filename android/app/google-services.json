@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784262586485",
+    "project_id": "wuff-4f1fe",
+    "storage_bucket": "wuff-4f1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784262586485:android:5859ee2a356b2359d0d83c",
+        "android_client_info": {
+          "package_name": "com.example.dog_selling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1tZf1iL0F5RA5Ul8FWBOlI0f6xt7kRxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
