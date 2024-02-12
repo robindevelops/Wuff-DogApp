@@ -54,6 +54,7 @@ class _SettingsPageState extends State<SettingsPage> {
 
   @override
   void initState() {
+    super.initState();
     // TODO: implement initState
     fetchCurrentUserDetails();
   }

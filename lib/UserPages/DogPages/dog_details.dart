@@ -4,7 +4,6 @@ import 'package:dog_selling/Widgets/custom_button.dart';
 import 'package:dog_selling/database.dart';
 import 'package:expandable_text/expandable_text.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class DogDetailsPage extends StatelessWidget {
   final Dogs dog;
