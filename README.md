@@ -1,16 +1,40 @@
-# dog_selling
+# Wuff - The Dog Seeing App
 
-A new Flutter project.
+Welcome to Wuff, the ultimate app for dog lovers! Discover and share pictures of adorable dogs from all around the world.
+
+## Features
+- Browse a wide variety of dog pictures
+- Upload your own dog photos
+- Like and comment on your favorite dog pictures
+- Follow other dog lovers and see their collections
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### Browse Dogs
+![Browse Dogs](screenshots/browse_dogs.png)
+
+### Upload Photo
+![Upload Photo](screenshots/upload_photo.png)
+
+### Dog Profile
+![Dog Profile](screenshots/dog_profile.png)
+
+### Settings
+![Settings](screenshots/settings.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running, follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK
+- A code editor like VSCode or Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+   ```sh
+   git clone https://github.com/yourusername/wuff.git
