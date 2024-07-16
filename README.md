@@ -9,7 +9,6 @@
 ----------------------------
 
 
-
  <h2 style="font-family: 'Amatic SC', cursive;">INTRO SCREEN ❤️</h2>
 <img width="1440" alt="Screenshot 2024-07-16 at 10 11 02 AM" src="https://github.com/user-attachments/assets/9a95de4b-6fe4-4361-91ed-e8cfe0005d56">
 
@@ -24,6 +23,12 @@
 
 <h2 style="font-family: 'Amatic SC', cursive;">SETTINGS SCREEN ❤️</h2>
 <img width="1440" alt="Screenshot 2024-07-16 at 10 12 11 AM" src="https://github.com/user-attachments/assets/59ba81da-77d7-413f-a158-7bc21ea09d33">
+
+
+<h1>Watch this Video on YouTube :</h1>
+<a href="https://www.youtube.com/watch?v=30IiQa5Rcb0&t=2s" target="_blank">Click here to watch the video</a>
+
+------
 
 
 
