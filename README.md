@@ -1,40 +1,42 @@
-# Wuff - The Dog Seeing App
+# Wuff - The Dog App ❤️
 
-Welcome to Wuff, the ultimate app for dog lovers! Discover and share pictures of adorable dogs from all around the world.
+💕❤️ <h2>"WELCOME TO WUFF" </h2> I Created this app during my summer semester to enhance my understanding of Flutter UI, Firebase, and BLoC. Although it's not fully completed, it has been a fantastic learning journey!
 
-## Features
-- Browse a wide variety of dog pictures
-- Upload your own dog photos
-- Like and comment on your favorite dog pictures
-- Follow other dog lovers and see their collections
+----------------------------
 
-## Screenshots
+ SCREENSHOTS ❤️📱
+ 
+----------------------------
 
-### Home Screen
-![Home Screen](screenshots/home_screen.png)
 
-### Browse Dogs
-![Browse Dogs](screenshots/browse_dogs.png)
 
-### Upload Photo
-![Upload Photo](screenshots/upload_photo.png)
+ <h2 style="font-family: 'Amatic SC', cursive;">INTRO SCREEN ❤️</h2>
+<img width="1440" alt="Screenshot 2024-07-16 at 10 11 02 AM" src="https://github.com/user-attachments/assets/9a95de4b-6fe4-4361-91ed-e8cfe0005d56">
 
-### Dog Profile
-![Dog Profile](screenshots/dog_profile.png)
+<h2 style="font-family: 'Amatic SC', cursive;">AUTHENTICATION SCREEN ❤️</h2>
+<img width="1440" alt="Screenshot 2024-07-16 at 10 11 25 AM" src="https://github.com/user-attachments/assets/9f8d5e3a-b173-4edc-8cb8-cd5a84dcb400">
 
-### Settings
-![Settings](screenshots/settings.png)
+<h2 style="font-family: 'Amatic SC', cursive;">HOME SCREEN ❤️</h2>
+<img width="1440" alt="Screenshot 2024-07-16 at 10 11 55 AM" src="https://github.com/user-attachments/assets/914c206d-9d2d-4b35-9e11-ada30857ee70">
 
-## Getting Started
+<h2 style="font-family: 'Amatic SC', cursive;">DOG PROFILE SCREEN ❤️</h2>
+<img width="1440" alt="Screenshot 2024-07-16 at 10 12 03 AM" src="https://github.com/user-attachments/assets/26788b8d-67ce-4e65-9779-fad41b2f5f37">
+
+<h2 style="font-family: 'Amatic SC', cursive;">SETTINGS SCREEN ❤️</h2>
+<img width="1440" alt="Screenshot 2024-07-16 at 10 12 11 AM" src="https://github.com/user-attachments/assets/59ba81da-77d7-413f-a158-7bc21ea09d33">
+
+
+
+## Getting Started 🕹️
 
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
-- Flutter SDK
-- A code editor like VSCode or Android Studio
+- 🛠️ Flutter SDK 
+- 🖥️ A code editor like VSCode or Android Studio
 
 ### Installation
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/wuff.git
+   git clone https://github.com/yourusername/Wuff-DogApp.git
